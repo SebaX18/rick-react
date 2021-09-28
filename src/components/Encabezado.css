@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    flex-direction: row;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+   
+}
+a{  
+    padding-left: 1rem;
+    text-decoration: none;
+    color: var(--naranja);
+    font-family:var(--tipografia-texto);
+    font-size: 20px;
+
+}
